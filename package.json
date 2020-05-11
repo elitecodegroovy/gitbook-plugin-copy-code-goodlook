@@ -1,0 +1,34 @@
+{
+  "author": {
+    "email": "elite_jigang@163.com",
+    "name": "elite_jigang"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "dependencies": {},
+  "description": "Copy code on GitBook",
+  "devDependencies": {},
+  "directories": {},
+  "engines": {
+    "gitbook": "*"
+  },
+  "homepage": "https://github.com/elitecodegroovy/gitbook-plugin-copy-code-goodlook",
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+    "email": "elite_jigang@163.com",
+    "name": "elite_jigang"
+    }
+  ],
+  "name": "gitbook-plugin-copy-code-goodlook",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elitecodegroovy/gitbook-plugin-copy-code-goodlook.git"
+  },
+  "scripts": {},
+  "version": "0.0.2"
+}
